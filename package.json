@@ -37,24 +37,24 @@
     "tailwindcss": "^3.4.0"
   },
   "dependencies": {
-    "fast-glob": "^3.2.5",
-    "postcss": "^8.4.4"
+    "fast-glob": "^3.3.3",
+    "postcss": "^8.5.3"
   },
   "devDependencies": {
     "@angular-eslint/template-parser": "^15.2.0",
     "@tailwindcss/aspect-ratio": "^0.4.2",
-    "@tailwindcss/forms": "^0.5.3",
-    "@tailwindcss/line-clamp": "^0.4.2",
-    "@tailwindcss/typography": "^0.5.8",
+    "@tailwindcss/forms": "^0.5.10",
+    "@tailwindcss/line-clamp": "^0.4.4",
+    "@tailwindcss/typography": "^0.5.16",
     "@typescript-eslint/parser": "^5.50.0",
-    "autoprefixer": "^10.4.0",
+    "autoprefixer": "^10.4.20",
     "daisyui": "^2.6.4",
     "eslint": "^8.57.0",
-    "mocha": "^10.2.0",
-    "semver": "^7.6.0",
+    "mocha": "^11.1.0",
+    "semver": "^7.7.1",
     "tailwindcss": "^3.4.0",
     "typescript": "4.3.5",
-    "vue-eslint-parser": "^9.4.2"
+    "vue-eslint-parser": "^9.4.3"
   },
   "packageManager": "npm@10.2.5+sha256.8002e3e7305d2abd4016e1368af48d49b066c269079eeb10a56e7d6598acfdaa",
   "engines": {
