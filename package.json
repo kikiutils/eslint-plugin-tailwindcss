@@ -9,13 +9,21 @@
     "tailwind",
     "tailwindcss"
   ],
+  "contributors": [
+    {
+      "name": "François Massart"
+    },
+    {
+      "name": "kiki-kanri"
+    }
+  ],
   "author": "François Massart",
   "repository": {
     "type": "git",
-    "url": "https://github.com/francoismassart/eslint-plugin-tailwindcss"
+    "url": "https://github.com/kiki-kanri/eslint-plugin-tailwindcss"
   },
-  "homepage": "https://github.com/francoismassart/eslint-plugin-tailwindcss",
-  "bugs": "https://github.com/francoismassart/eslint-plugin-tailwindcss/issues",
+  "homepage": "https://github.com/kiki-kanri/eslint-plugin-tailwindcss",
+  "bugs": "https://github.com/kiki-kanri/eslint-plugin-tailwindcss/issues",
   "main": "lib/index.js",
   "scripts": {
     "test": "npm run test:base && npm run test:integration",
