@@ -1,6 +1,6 @@
 {
   "name": "@kikiutils/eslint-plugin-tailwindcss",
-  "version": "1.0.0",
+  "version": "3.19.0",
   "description": "Rules enforcing best practices while using Tailwind CSS",
   "keywords": [
     "eslint",
